@@ -41,3 +41,6 @@ O **LogWise AI** está pronto para transformar desperdício invisível em efici�
 - CloudWatch
 - GitHub
 - Slack API
+
+![Imagem do WhatsApp de 2025-06-09 à(s) 19 39 49_a9d358ca](https://github.com/user-attachments/assets/895cde87-cba5-4c2c-9a85-eae784a3359d)
+
