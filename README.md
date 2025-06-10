@@ -44,6 +44,8 @@ O **LogWise AI** está pronto para transformar desperdício invisível em efici�
 - CloudWatch
 - GitHub
 - Slack API
+- Amazon S3
+- DynamoDB
 
 ### 📺 Apresentação : 
 
