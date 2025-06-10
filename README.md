@@ -1,12 +1,12 @@
 # 🥉 Lugar no Hackathon de IA e Multi-Cloud do Cubo Itaú !
 
-## 👥 O desafio proposto envolvia um cenário em cima de dores reais trazidas pelo próprio Itaú, e deveriamos solucionar algum desses problemas construindo uma arquitetura sólida. 
+### 👥 O desafio proposto envolvia um cenário em cima de dores reais trazidas pelo próprio Itaú, e deveriamos solucionar algum desses problemas construindo uma arquitetura sólida. 
 
-## 🔎 Focamos em como identificar e reduzir o desperdício causado por logs desnecessários, antes mesmo deles gerarem custos. 
+### 🔎 Focamos em como identificar e reduzir o desperdício causado por logs desnecessários, antes mesmo deles gerarem custos. 
 
-## 📈 Em ambientes com milhares de contas, como no Itaú, o volume de logs gerados cresce de forma exponencial. E muitos desses dados, apesar de consumirem recursos (armazenamento, processamento, observabilidade), não geram valor analítico real.
+### 📈 Em ambientes com milhares de contas, como no Itaú, o volume de logs gerados cresce de forma exponencial. E muitos desses dados, apesar de consumirem recursos (armazenamento, processamento, observabilidade), não geram valor analítico real.
 
-#💡 Dessa forma criamos o **LongWise AI** um agente inteligente que atua no fluxo de desenvolvimento para:
+## 💡 Dessa forma criamos o **LongWise AI** um agente inteligente que atua no fluxo de desenvolvimento para:
 
 ✅ Analisar código e logs com IA generativa (Amazon Bedrock)
 ✅ Identificar padrões de ineficiência antes do deploy
